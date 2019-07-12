@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        main{
+            height: 150px;
+            padding: 2% 0 0 2%;
+        }
+        .clear{
+            clear: both;
+        }
+        img{
+            width: 100%;
+        }
+        section{
+            margin: 0 2%;
+            width: 40%;
+            float: left;
+        }
+        .imgcontainer{
+            width: 250px;
+            height: 250px;
+            float: left;
+            margin: 5% 2% 0 0;
+        }
+        .descriptors{
+            float: left;
+            width: 50%;
+            text-align: justify;
+        }
+        footer p {
+            text-align: center;
+        }
+        #container{
+             margin-left: 3%;
+        }
+    </style>
+</head>
+<body>
+
+<main>
+<h1>News Feed</h1>
+</main>
+<div id="container">

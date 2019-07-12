@@ -1,0 +1,10 @@
+<div class="clear"></div>
+</div>
+<footer>
+    <main>
+        <h2>Stay Updated Always With The Latest News!!</h2>
+    </main>
+<p> &copy;Copyright Your Site | Terms of Use | Privacy Policy</p>
+</footer>
+</body>
+</html>
